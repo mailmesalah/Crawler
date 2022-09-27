@@ -1,0 +1,4 @@
+(<div class="post-left">\s*<a href="[a-zA-Z:\/\.-]*")
+
+(?<=<div class="post-left">[\s\n]*<a href=)"https:\/\/buzzon.khaleejtimes.com\/classifieds\/[a-zA-Z\d:\/\.-]*"
+(?<=<a href=")https:\/\/buzzon.khaleejtimes.com\/classifieds\/[a-zA-Z\d:\/\.-]*
